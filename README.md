@@ -1,4 +1,8 @@
-# TFM-Deteccion-Multiclase
+# UOC. Máster en Ciencia de Datos.
+
+# TFM - Área 5: Data Science in Complex Systems, Sustainability and Ecology
+
+# Evaluación de la viabilidad de un sistema multiclase para la detección de megafauna marina a partir de un modelo basado en Deep Learning.
 
 El uso de drones y técnicas de Deep Learning se ha consolidado como una herramienta prometedora para la monitorización y conservación de fauna marina. Las capturas de imágenes aéreas y su análisis mediante sistemas de visión por computador permiten obtener información de valor ecológico de forma no invasiva, reduciendo costes y mejorando la eficiencia respecto a métodos tradicionales de monitorización marina. 
 
